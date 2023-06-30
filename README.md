@@ -43,7 +43,7 @@
 
 <h2>Lisans</h2>
 
-<p>Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için <code>LICENSE</code> dosyasını inceleyin.</p>
+<p>Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için <code>LICENSE</code> dosyasını inceleyin.</p>
 
 <h2>İletişim</h2>
 
